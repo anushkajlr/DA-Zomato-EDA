@@ -37,10 +37,14 @@ Dataset link: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-re
 
 ## References
 
-[1] Elham Asani, Hamed Vahdat-Nejad, Javad Sadri, Restaurant recommender system based on sentiment analysis,Machine Learning with Applications,Volume 6, 2021, 100114,ISSN 2666-8270,
+[1] Elham Asani, Hamed Vahdat-Nejad, Javad Sadri, Restaurant recommender system based on sentiment analysis,Machine Learning with Applications,Volume 6, 2021, 100114,ISSN 2666-8270
+
 [2] Alif Azhar Fakhri et al 2019 J. Phys.: Conf. Ser. 1192 012023 "Restaurant Recommender System Using User-Based Collaborative Filtering Approach: A Case Study at Bandung Raya Region"
+
 [3] Pedersen, T., Patwardhan, S., & Michelizz, J. (2004). WordNet::Similarity-measuring the relatedness of concepts. In19th national conference on artificial intelligence. San Jose, CA, USA.
+
 [4] Choenyi, T. et al. "A Review on Filtering Techniques Usedin Restaurant Recommendation System." International Journal of Computer Science and Mobile Computing 10.4 113-117.
+
 [5] Gupta A and Singh K 2013 Location based personalized restaurant recommendation system for mobile environments Advances in Computing, Communications and Informatics pp. 507-511 IEEE
 
 https://towardsdatascience.com/topic-modeling-with-nlp-on-amazon-reviews-an-application-of-latent-dirichlet-allocation-lda-ae42a4c8b369
